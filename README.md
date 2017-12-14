@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 生活不止是苟且，还有诗和远方...
 
 You can use the [editor on GitHub](https://github.com/ScottXiong/ScottXiong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
