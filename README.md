@@ -1,6 +1,6 @@
-## Doing something when you can do.
+##  <img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=211248495,2604906728&fm=27&gp=0.jpg" width="50" height="50">Doing something when you can do.
 You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.
- 			<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=211248495,2604906728&fm=27&gp=0.jpg" width="100" height="100">
+
 
 ### Make a goal
 - C++
