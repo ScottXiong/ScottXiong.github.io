@@ -1,10 +1,24 @@
-## 生活不止是苟且，还有诗和远方...
-
+## Doing something when you can do.
 You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.
 
-Doing something when you can do.
+### Make a goal
+- C++
+- Java
+- PHP
+- Python
+- node
+- vue
+- react
+- angular
+- ionic
+- js
+- jquery
+- css3
+- html5
+- vpn
+- vps 
+- linux
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
