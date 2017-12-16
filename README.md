@@ -27,7 +27,7 @@ You must take personal responsibility. You cannot change the circumstances, the 
 - linux
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At the same while, improving the English via Youtub is a good choice. Don’t feel it’s a trouble. If you insist on it for several months, you’ll find you can understand most of the document you touch.
 
 ```markdown
 Syntax highlighted code block
