@@ -1,8 +1,8 @@
 ## 生活不止是苟且，还有诗和远方...
 
-You can use the [editor on GitHub](https://github.com/ScottXiong/ScottXiong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Doing something when you can do.
 
 ### Markdown
 
