@@ -8,6 +8,7 @@ You must take personal responsibility. You cannot change the circumstances, the 
 - PHP
 - Python
 - node
+<hr>
 - vue
 - react
 - angular
@@ -16,6 +17,11 @@ You must take personal responsibility. You cannot change the circumstances, the 
 - jquery
 - css3
 - html5
+<hr>
+* bootstrap
+* element
+* semantic
+<hr>
 - vpn
 - vps 
 - linux
