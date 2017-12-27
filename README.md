@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## <a href="http://www.cnblogs.com/xiongwei2017/p/7350456.html"><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=211248495,2604906728&fm=27&gp=0.jpg" width="30" height="30" style="margin-right:5px;border-radius:2px"></a>Doing something when you can do.
 You must take personal responsibility. You cannot change the circumstances, the seasons, or the wind, but you can change yourself. That is something you have charge of.
 
@@ -58,3 +59,6 @@ For more details see [Scott Xiong](https://github.com/ScottXiong?tab=repositorie
 
 ### [benchmark process](http://scottxiong.org/benchmark/)
 
+=======
+# benchmark
+>>>>>>> benchmark
